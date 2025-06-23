@@ -1,9 +1,9 @@
 <h1 align="center">
 <p align="center">
-  <strong>Universidade Federal de Alfenas (Unifal-MG)</strong><br>
-  <strong>Curso:</strong> Ciência da Computação (08)<br>
-  <strong>Ano/Semestre:</strong> 2025 / Primeiro<br>
-  <strong>Professor:</strong> Tiago José Arruda
+  <strong>Universidade Federal de Alfenas (Unifal-MG)<br>
+  <strong>Curso: Ciência da Computação (08)<br>
+  <strong>Ano/Semestre: 2025 / Primeiro<br>
+  <strong>Professor: Tiago José Arruda
 </p>
 
 ---
