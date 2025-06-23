@@ -55,4 +55,4 @@ O conteúdo da disciplina está dividido em cinco unidades:
 
 <p align="center">
   Este README foi criado com base no Programa de Ensino da disciplina.
-</p>****
+</p>
