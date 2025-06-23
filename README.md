@@ -1,4 +1,3 @@
-<h1 align="center">
 <p align="center">
   <strong>Universidade Federal de Alfenas (Unifal-MG)<br>
   <strong>Curso: Ciência da Computação (08)<br>
