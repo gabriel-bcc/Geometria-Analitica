@@ -1,8 +1,8 @@
 <p align="center">
-  <strong>Universidade Federal de Alfenas (Unifal-MG)<br>
-  <strong>Curso: Ciência da Computação (08)<br>
+  <strong>Universidade Federal de Alfenas (Unifal-MG)</strong><br>
+  <strong>Curso:</strong> Ciência da Computação (BCC)<br>
   <strong>Ano/Semestre:</strong> 2025 / Primeiro<br>
-  <strong>Professor: Tiago José Arruda
+  <strong>Professor:</strong> Tiago José Arruda
 </p>
 
 ---
